@@ -1,9 +1,8 @@
 # Exercício Python #001 - Deixando tudo pronto - Aula 00 até 04 - Mundo 1
 # Crie um programa que escreva 'Olá, mundo!' na tela.
 
-from emoji import emojize  # Importa a função emojize do módulo emoji
-
 # Tarefa 1: Escrever a mensagem na tela
+from emoji import emojize
 
 # Método 1: Imprime a mensagem diretamente no console usando a função print() e a formatação ANSI
 print('\033[1;32mMensagem direto no console com a função print():\033[m')
