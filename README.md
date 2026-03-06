@@ -1,7 +1,5 @@
 # 🐍 Curso de Python 3 - Mundo de Descobertas
 
-![Banner](./dashboard_banner.png)
-
 ## 🎓 Sobre o Curso
 Este repositório contém todo o progresso, exercícios e desafios do **Curso de Python 3** do Canal **Curso em Vídeo**, ministrado pelo mestre **Gustavo Guanabara**.
 
