@@ -51,10 +51,4 @@ Criamos um dashboard interativo para você acompanhar seu progresso visualmente 
 - **IDE Sugerida:** PyCharm / VS Code
 
 ---
-
-## 👤 Desenvolvedor
-- **Nome:** [Seu Nome Aqui]
-- **Status:** Em evolução... 🚀
-
----
 *Este repositório serve como um portfólio de estudos e uma base de conhecimento para projetos futuros.*
