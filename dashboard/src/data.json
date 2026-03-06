@@ -1,0 +1,280 @@
+{
+    "files": [
+        "parse_to_json.py"
+    ],
+    "Curso de Python 3 - Mundo 1 Fundamentos": {
+        "Curso Python #010 - Condições (Parte 1)": {
+            "files": [
+                "10_condicoes_pt1.py",
+                "28_desafio.py",
+                "29_desafio.py",
+                "30_desafio.py",
+                "31_desafio.py",
+                "32_desafio.py",
+                "33_desafio.py",
+                "34_desafio.py",
+                "35_desafio.py"
+            ]
+        },
+        "Curso Python #011 - Condições (Parte 2)": {
+            "files": [
+                "11_cores_no_terminal.py"
+            ]
+        },
+        "Curso Python #04 - Primeiros comandos em Python3": {
+            "files": [
+                "aula4_primeiros_comandos.py"
+            ]
+        },
+        "Curso Python #05 - Instalando o PyCharm e o QPython3": {
+            "files": [
+                "01_desafio.py",
+                "02_desafio.py"
+            ]
+        },
+        "Curso Python #06 - Tipos Primitivos e Saída de Dados": {
+            "files": [
+                "03_desafio.py",
+                "04_desafio.py",
+                "aula06_tipos_primitivos_e_saida_de_dados.py"
+            ]
+        },
+        "Curso Python #07 - Operadores Aritméticos": {
+            "files": [
+                "05_desafio.py",
+                "06_desafio.py",
+                "07_desafio.py",
+                "08_desafio.py",
+                "09_desafio.py",
+                "10_desafio.py",
+                "11_desafio.py",
+                "12_desafio.py",
+                "13_desafio.py",
+                "14_desafio.py",
+                "15_desafio.py",
+                "aula7_operadores_aritimeticos.py"
+            ]
+        },
+        "Curso Python #08 - Utilizando Módulos": {
+            "files": [
+                "16_desafio.py",
+                "17_desafio.py",
+                "18_desafio.py",
+                "19_desafio.py",
+                "20_desafio.py",
+                "21_desafio.py",
+                "aula8_utilizando_modulos.py"
+            ]
+        },
+        "Curso Python #09 - Manipulando Texto": {
+            "files": [
+                "22_desafio.py",
+                "23_desafio.py",
+                "24_desafio.py",
+                "25_desafio.py",
+                "26_desafio.py",
+                "27_desafio.py",
+                "aula9_manipulando_texto.py"
+            ]
+        }
+    },
+    "Curso de Python 3 - Mundo 2 Estruturas de Controle": {
+        "Curso Python #012 - Condições Aninhadas": {
+            "files": [
+                "36_desafio.py",
+                "37_desafio.py",
+                "38_desafio.py",
+                "39_desafio.py",
+                "40_desafio.py",
+                "41_desafio.py",
+                "42_desafio.py",
+                "43_desafio.py",
+                "44_desafio.py",
+                "45_desafio.py",
+                "aula12_condicoes_aninhadas.py"
+            ]
+        },
+        "Curso Python #013 - Estrutura de repetição for": {
+            "files": [
+                "46_desafio.py",
+                "47_desafio.py",
+                "48_desafio.py",
+                "49_desafio.py",
+                "50_desafio.py",
+                "51_desafio.py",
+                "52_desafio.py",
+                "53_desafio.py",
+                "54_desafio.py",
+                "55_desafio.py",
+                "56_desafio.py",
+                "aula13_estrutura_de_repeticao_for.py"
+            ]
+        },
+        "Curso Python #014 - Estrutura de repetição while": {
+            "files": [
+                "57_desafio.py",
+                "58_desafio.py",
+                "59_desafio.py",
+                "60_desafio.py",
+                "61_desafio.py",
+                "62_desafio.py",
+                "63_desafio.py",
+                "64_desafio.py",
+                "65_desafio.py",
+                "aula14_estrutura_de_repeticao_while.py"
+            ]
+        },
+        "Curso Python #015 - Interrompendo repetições while": {
+            "files": [
+                "66_desafio.py",
+                "67_desafio.py",
+                "68_desafio.py",
+                "69_desafio.py",
+                "70_desafio.py",
+                "71_desafio.py",
+                "aula15_interrompendo_repeticoes_while.py"
+            ]
+        }
+    },
+    "Curso de Python 3 - Mundo 3 Estruturas Compostas": {
+        "Curso Python #016 - Tuplas": {
+            "files": [
+                "72_desafio.py",
+                "73_desafio.py",
+                "74_desafio.py",
+                "75_desafio.py",
+                "76_desafio.py",
+                "77_desafio.py",
+                "aula16_tuplas.py"
+            ]
+        },
+        "Curso Python #017 - Listas (Parte 1)": {
+            "files": [
+                "78_desafio.py",
+                "79_desafio.py",
+                "80_desafio.py",
+                "81_desafio.py",
+                "82_desafio.py",
+                "83_desafio.py",
+                "aula17_listas_1.py"
+            ]
+        },
+        "Curso Python #018 - Listas (Parte 2)": {
+            "files": [
+                "84_desafio.py",
+                "85_desafio.py",
+                "86_desafio.py",
+                "87_desafio.py",
+                "88_desafio.py",
+                "89_desafio.py",
+                "aula18_listas_2.py"
+            ]
+        },
+        "Curso Python #019 - Dicionários": {
+            "files": [
+                "90_desafio.py",
+                "91_desafio.py",
+                "92_desafio.py",
+                "93_desafio.py",
+                "94_desafio.py",
+                "95_desafio.py",
+                "aula19_dicionarios.py"
+            ]
+        },
+        "Curso Python #020 - Funções (Parte 1)": {
+            "files": [
+                "100_desafio.py",
+                "96_desafio.py",
+                "97_desafio.py",
+                "98_desafio.py",
+                "99_desafio.py",
+                "aula20_funcoes_1.py"
+            ]
+        },
+        "Curso Python #021 - Funções (Parte 2)": {
+            "files": [
+                "101_desafio.py",
+                "102_desafio.py",
+                "103_desafio.py",
+                "104_desafio.py",
+                "105_desafio.py",
+                "106_desafio.py",
+                "aula21_funcoes_2.py"
+            ]
+        },
+        "Curso Python #022 - Módulos e Pacotes": {
+            "files": [
+                "107_desafio.py",
+                "108_desafio.py",
+                "109_desafio.py",
+                "110_desafio.py",
+                "111_desafio.py",
+                "112_desafio.py",
+                "aula22_modulos_e_pacotes.py",
+                "moeda.py"
+            ],
+            "uteis": {
+                "files": [
+                    "__init__.py"
+                ],
+                "datas": {
+                    "files": [
+                        "__init__.py"
+                    ]
+                },
+                "numeros": {
+                    "files": [
+                        "__init__.py"
+                    ]
+                },
+                "strings": {
+                    "files": [
+                        "__init__.py"
+                    ]
+                }
+            },
+            "utilidadescev": {
+                "files": [
+                    "dados.py",
+                    "moeda.py",
+                    "__init__.py"
+                ]
+            }
+        },
+        "Curso Python #23 - Tratamento de Erros e Exceções": {
+            "files": [
+                "113_desafio.py",
+                "114_desafio.py",
+                "115_desafio.py",
+                "aula23_tratamento_de_erros_e_excecoes.py"
+            ],
+            "sisteminha": {
+                "files": [
+                    "__init__.py"
+                ]
+            }
+        }
+    },
+    "Curso de Python 3 - Mundo 4 POO Programação Orientada a Objetos": {
+        "Curso Python #024 - O Guia Definitivo para Iniciantes": {
+            "files": [
+                "aula24.py"
+            ]
+        },
+        "Curso Python #025 - O motivo do surgimento da POO": {
+            "files": [
+                "aula25.py"
+            ]
+        },
+        "Curso Python #026 - As 6 VANTAGENS da POO": {
+            "files": [
+                "aula26.py"
+            ]
+        },
+        "Curso Python #027 - POO para Iniciantes Guia Definitivo - Classes, Objetos, Atributos, etc": {
+            "files": [
+                "aula27.py"
+            ]
+        }
+    }
+}

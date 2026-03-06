@@ -1,0 +1,147 @@
+﻿C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\10_condicoes_pt1.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\28_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\29_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\30_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\31_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\32_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\33_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\34_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #010 - Condições (Parte 1)\35_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #011 - Condições (Parte 2)\11_cores_no_terminal.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #04 - Primeiros comandos em Python3\aula4_primeiros_comandos.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #05 - Instalando o PyCharm e o QPython3\01_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #05 - Instalando o PyCharm e o QPython3\02_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #06 - Tipos Primitivos e Saída de Dados\03_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #06 - Tipos Primitivos e Saída de Dados\04_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #06 - Tipos Primitivos e Saída de Dados\aula06_tipos_primitivos_e_saida_de_dados.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\05_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\06_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\07_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\08_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\09_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\10_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\11_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\12_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\13_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\14_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\15_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #07 - Operadores Aritméticos\aula7_operadores_aritimeticos.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\16_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\17_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\18_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\19_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\20_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\21_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #08 - Utilizando Módulos\aula8_utilizando_modulos.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\22_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\23_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\24_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\25_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\26_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\27_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 1 Fundamentos\Curso Python #09 - Manipulando Texto\aula9_manipulando_texto.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\36_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\37_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\38_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\39_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\40_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\41_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\42_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\43_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\44_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\45_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #012 - Condições Aninhadas\aula12_condicoes_aninhadas.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\46_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\47_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\48_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\49_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\50_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\51_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\52_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\53_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\54_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\55_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\56_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #013 - Estrutura de repetição for\aula13_estrutura_de_repeticao_for.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\57_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\58_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\59_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\60_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\61_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\62_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\63_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\64_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\65_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #014 - Estrutura de repetição while\aula14_estrutura_de_repeticao_while.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\66_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\67_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\68_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\69_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\70_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\71_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 2 Estruturas de Controle\Curso Python #015 - Interrompendo repetições while\aula15_interrompendo_repeticoes_while.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\72_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\73_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\74_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\75_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\76_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\77_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #016 - Tuplas\aula16_tuplas.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\78_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\79_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\80_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\81_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\82_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\83_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #017 - Listas (Parte 1)\aula17_listas_1.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\84_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\85_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\86_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\87_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\88_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\89_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #018 - Listas (Parte 2)\aula18_listas_2.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\90_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\91_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\92_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\93_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\94_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\95_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #019 - Dicionários\aula19_dicionarios.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #020 - Funções (Parte 1)\100_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #020 - Funções (Parte 1)\96_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #020 - Funções (Parte 1)\97_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #020 - Funções (Parte 1)\98_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #020 - Funções (Parte 1)\99_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #020 - Funções (Parte 1)\aula20_funcoes_1.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\101_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\102_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\103_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\104_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\105_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\106_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #021 - Funções (Parte 2)\aula21_funcoes_2.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\107_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\108_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\109_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\110_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\111_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\112_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\aula22_modulos_e_pacotes.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\moeda.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\uteis\__init__.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\uteis\datas\__init__.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\uteis\numeros\__init__.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\uteis\strings\__init__.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\utilidadescev\dados.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\utilidadescev\moeda.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #022 - Módulos e Pacotes\utilidadescev\__init__.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #23 - Tratamento de Erros e Exceções\113_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #23 - Tratamento de Erros e Exceções\114_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #23 - Tratamento de Erros e Exceções\115_desafio.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #23 - Tratamento de Erros e Exceções\aula23_tratamento_de_erros_e_excecoes.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 3 Estruturas Compostas\Curso Python #23 - Tratamento de Erros e Exceções\sisteminha\__init__.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 4 POO Programação Orientada a Objetos\Curso Python #024 - O Guia Definitivo para Iniciantes\aula24.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 4 POO Programação Orientada a Objetos\Curso Python #025 - O motivo do surgimento da POO\aula25.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 4 POO Programação Orientada a Objetos\Curso Python #026 - As 6 VANTAGENS da POO\aula26.py
+C:\Users\md\Desktop\cursoemvideo_python\cursoemvideo_python\Curso de Python 3 - Mundo 4 POO Programação Orientada a Objetos\Curso Python #027 - POO para Iniciantes Guia Definitivo - Classes, Objetos, Atributos, etc\aula27.py
