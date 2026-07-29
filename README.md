@@ -9,7 +9,10 @@ Este repositório contém todo o progresso, exercícios e desafios do **Curso de
 
 ## 🚀 Estrutura do Aprendizado
 
-O curso está organizado em **Mundos**, cada um explorando pilares fundamentais da programação:
+O curso está organizado em **Mundos**, cada um explorando pilares fundamentais da programação.
+
+> [!TIP]
+> **[🎯 Confira aqui o Índice Completo de Exercícios](./EXERCICIOS.md)** - Acesse rapidamente todos os desafios resolvidos.
 
 ### 🌍 [Mundo 1: Fundamentos](./cursoemvideo_python/Curso%20de%20Python%203%20-%20Mundo%201%20Fundamentos)
 Focado no básico: instalação, tipos primitivos, operadores, manipulação de texto e condições simples.
