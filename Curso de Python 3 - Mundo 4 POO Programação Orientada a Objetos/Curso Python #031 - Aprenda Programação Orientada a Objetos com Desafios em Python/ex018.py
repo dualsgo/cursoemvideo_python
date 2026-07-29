@@ -1,0 +1,1 @@
+# Crie a Classe Funcionario, onde podemos cadastrar nome, setor e cargo. Crie também um método que permite ao funcionário se apresentar
